@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="[RSS URL]" rel="self" type="application/rss+xml" />
+    <title>Blogthing</title>
+    <link>[link]</link>
+    <description></description>
+    <ttl>60</ttl>
+
+    <item>
+      <title>RSS things </title>
+      <pubDate>Sat, Jul 13, 2024 1:43:12 PM GMT</pubDate>
+      <link>[link]/blog?post=1720878192</link>
+      <guid>123</guid>
+      <description> 
+        <p>
+        RSS is cool. And theres a feed for this site obviously. Which I find neat. 
+        </p>
+        <p>
+        I want to make my own RSS feed application but who knows how that's going to go. While I could make it web-based and use Electron (except 
+        it's performance is notoriously bad...) or Tauri, I want to try GUI. Famous last words maybe. I really hated Java Swing I'm not sure why I'm doing this.
+        I initially wanted to go with Qt but I'm trying PyQt at least for now... I also considered other GUIs that seemed beginner friendly enough
+        but I still found it important to pick something with better docs and something that's more commonly used....
+        </p>
+        <p>
+        So I'll see how that goes..... I've started and it's a bit confusing trying to run around and look for some good documentation and examples, 
+        but it's starting to make some sense. I have a really really basic GUI right now. It's painful to work with. 
+        </p>
+        <img class="blogimg" src="blogimg/rss.PNG"/> 
+      
+      </description>
+      <category>programming</category>
+      <language> en-us </language>
+    </item>
+
+    <item>
+      <title>Installing Debian!</title>
+      <pubDate> Sun, 16 Jun 2024 09:08:47 GMT</pubDate>
+      <link>[link]/blog?post=1718579327</link>
+      <guid>1718579327</guid> 
+      <description> 
+        <p>
+        Recently I installed Debian 12 on an old Acer laptop from when I was 9! This is my first time installing Linux. I'm very happy. The computer has pretty bad specs
+        (Pentium, 4GB RAM), it's has gotten bogged down over time to the point that it's unusable (can't even use file explorer properly), and now it's free (ish).</p>
+
+        <p>
+        Live install went smoothly, and so did Actual install. Relatively. I ran into an issue with booting.  "No bootable devices found"..... 
+        luckily I was able to fix it relatively quickly. I had to scour the web for help, turn
+        secure boot on and off (secure boot worked for me personally), etc and it was just an issue with my boot order. Had to put shim, then grub, then the hard drive.
+        I feel silly. Also could have been partly the date and time being off in bios. Otherwise, no hardware issues, no wireless adapter issues, Debian 12 is pretty beginner friendly. <br/>
+        </p> 
+
+        <p>
+        I went with XFCE desktop environment, I knew for a while I wanted that one. I think it's neat... I like dated looking things.
+        I'll at some point mess around with CSS and themes etc to customize it. Need to get some widgets too
+        </p>
+
+        <p>
+        Eventually my goal is to use Linux on my main computer. Probably Debian again. With Windows 10 losing it's support I figure it's about time.
+        Plus, the philosophy of Linux is cool and I'll get to learn more about puters.
+        </p>
+
+      </description>
+      <category>linux</category>
+      <language> en-us </language>
+    </item>
+
+    <item>
+      <title>The first blog post</title>
+      <pubDate>Sat, Jun 15, 2024 3:01:44 PM GMT</pubDate>
+      <link>[link]/blog?post=1718488904</link>
+      <guid>789</guid>
+      <description> 
+        It's the first blog post.
+      
+      </description>
+      <category>ramble</category>
+      <language> en-us </language>
+    </item>
+
+
+  </channel>
+</rss>
