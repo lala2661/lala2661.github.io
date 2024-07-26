@@ -3,7 +3,7 @@
   <channel>
     <atom:link href="https://lala2661.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <title>Blogthing</title>
-    <link>[link]</link>
+    <link>https://lala2661.github.io/feed.xml</link>
     <description></description>
     <ttl>60</ttl>
 
@@ -11,7 +11,7 @@
       <title>RSS things </title>
       <pubDate>Sat, Jul 13, 2024 1:43:12 PM GMT</pubDate>
       <link>https://lala2661.github.io/blog?post=1720878192</link>
-      <guid>123</guid>
+      <guid>1720878192</guid>
       <description> 
         <p>
         RSS is cool. And theres a feed for this site obviously. Which I find neat. 
@@ -69,7 +69,7 @@
       <title>The first blog post</title>
       <pubDate>Sat, Jun 15, 2024 3:01:44 PM GMT</pubDate>
       <link>https://lala2661.github.io/blog?post=1718488904</link>
-      <guid>789</guid>
+      <guid>1718488904</guid>
       <description> 
         It's the first blog post.
       
