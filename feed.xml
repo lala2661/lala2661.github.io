@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <atom:link href="[RSS URL]" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lala2661.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <title>Blogthing</title>
     <link>[link]</link>
     <description></description>
@@ -10,7 +10,7 @@
     <item>
       <title>RSS things </title>
       <pubDate>Sat, Jul 13, 2024 1:43:12 PM GMT</pubDate>
-      <link>[link]/blog?post=1720878192</link>
+      <link>https://lala2661.github.io/blog?post=1720878192</link>
       <guid>123</guid>
       <description> 
         <p>
@@ -36,7 +36,7 @@
     <item>
       <title>Installing Debian!</title>
       <pubDate> Sun, 16 Jun 2024 09:08:47 GMT</pubDate>
-      <link>[link]/blog?post=1718579327</link>
+      <link>https://lala2661.github.io/blog?post=1718579327</link>
       <guid>1718579327</guid> 
       <description> 
         <p>
@@ -68,7 +68,7 @@
     <item>
       <title>The first blog post</title>
       <pubDate>Sat, Jun 15, 2024 3:01:44 PM GMT</pubDate>
-      <link>[link]/blog?post=1718488904</link>
+      <link>https://lala2661.github.io/blog?post=1718488904</link>
       <guid>789</guid>
       <description> 
         It's the first blog post.
